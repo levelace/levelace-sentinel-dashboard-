@@ -1,0 +1,9 @@
+import React from 'react';
+
+const TopBar: React.FC = () => (
+  <header style={{ padding: '1rem', backgroundColor: '#1f2937', color: '#f9fafb' }}>
+    LEVELACE Sentinel Dashboard
+  </header>
+);
+
+export default TopBar;
